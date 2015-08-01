@@ -1,0 +1,7 @@
+The requestCollapse() method closes an expanding HTML5 Studio creative, so it's no longer visible on the page
+FALSE
+
+Calling the close() method within a HTML5 studio floating creative wil do de following
+	- a collapse the unit to its collapsed dimensions - NOT
+	- close the unit so it's not visible on the page any longer
+	- collapse nd the close the unit so it's nor visible on the page any longer
